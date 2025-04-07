@@ -16,7 +16,7 @@ A modern URL shortener application built with React, Firebase, and shadcn-ui com
 
 1. Clone the repository:
    ```sh
-   git clone <your-repository-url>
+   git clone <https://github.com/RITIK-CHAUDHRY/secure-link-gsoc->
    cd <project-directory>
    ```
 
