@@ -3,6 +3,15 @@
 
 A modern URL shortener application built with React, Firebase, and shadcn-ui components. Create short links, track clicks, and manage your URLs through an intuitive dashboard.
 
+## Demo
+
+Here's a demo of the application prototype:
+
+<video width="800" controls>
+  <source src="public/securee-link-prototype.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Features
 
 - 🔗 Create custom short URLs
