@@ -25,7 +25,7 @@ Here's a demo of the application prototype:
 
 1. Clone the repository:
    ```sh
-   git clone <your-repository-url>
+   git clone <https://github.com/RITIK-CHAUDHRY/secure-link-gsoc->
    cd <project-directory>
    ```
 
