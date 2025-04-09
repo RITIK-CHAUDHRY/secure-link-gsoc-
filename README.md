@@ -5,12 +5,7 @@ A modern URL shortener application built with React, Firebase, and shadcn-ui com
 
 ## Demo
 
-Here's a demo of the application prototype:
-
-<video width="800" controls>
-  <source src="public/securee-link-prototype.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Here's a demo of the application prototype: https://drive.google.com/file/d/1-tf-uwzAOokAXiUd_omWnFz16uY5XL4D/view?usp=sharing
 
 ## Features
 
