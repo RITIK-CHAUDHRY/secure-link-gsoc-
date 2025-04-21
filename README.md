@@ -3,9 +3,9 @@
 
 A modern URL shortener application built with React, Firebase, and shadcn-ui components. Create short links, track clicks, and manage your URLs through an intuitive dashboard.
 
-## Demo
 
-Here's a demo of the application prototype: https://drive.google.com/file/d/1-tf-uwzAOokAXiUd_omWnFz16uY5XL4D/view?usp=sharing
+## 📽️ Demo Video Link:
+<a href="https://drive.google.com/file/d/1-tf-uwzAOokAXiUd_omWnFz16uY5XL4D/view?usp=sharing">Demo Video</a>
 
 ## Features
 
@@ -41,13 +41,13 @@ Here's a demo of the application prototype: https://drive.google.com/file/d/1-tf
 
 ## Technologies Used
 
-- ⚡ Vite - Next generation frontend tooling
-- 🏗️ React + TypeScript - Modern frontend framework
-- 🔥 Firebase - Backend services
-- 🎨 shadcn-ui - Beautiful UI components
-- 🌀 Tailwind CSS - Utility-first CSS framework
-- 🔄 React Query - Data synchronization
-- 🛣️ React Router - Client-side routing
+- ⚡ Vite
+- 🏗️ React + TypeScript 
+- 🔥 Firebase 
+- 🎨 shadcn-ui 
+- 🌀 Tailwind CSS 
+- 🔄 React Query 
+- 🛣️ React Router 
 
 ## Deployment
 
